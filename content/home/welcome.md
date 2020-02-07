@@ -24,6 +24,6 @@ hero_media = "mascot.png"
 
 +++
 
-**By hackers for hackers**
+**By hackers, for hackers**
 
 Want to get started with your badge? Read the **documentation** to find out how to develop **apps** or visit the **Hatchery** to browse apps and publish your own.

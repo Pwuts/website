@@ -25,8 +25,8 @@ interests:
 - Interest 1
 - Interest 2
 
-education:
-  courses:
+projects:
+  badges:
   - course: Title course 1
     institution: Name of Institution
     year: 2012

@@ -1,5 +1,5 @@
 ---
-title: Internal Project
+title: SHA2017
 summary: An example of using the in-built project page.
 tags:
 - Deep Learning
@@ -9,7 +9,7 @@ date: "2016-04-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: An early prototype of the SHA2017 badge
   focal_point: Smart
 
 links:
