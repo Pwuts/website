@@ -1,8 +1,8 @@
 +++
 widget = "hero"
 headless = true
-active = true
-weight = -10
+active = false
+weight = 9
 
 title = "Work in progress"
 

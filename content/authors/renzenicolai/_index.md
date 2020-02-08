@@ -71,3 +71,7 @@ user_groups:
 ---
 
 Creator of awesome badges, member of the TkkrLab hackerspace in Enschede.
+
+Originally an electrical engineer, but he usually ends up developing firmware.
+
+He's responsible for making a fully featured and truely universal badge platform out of our SHA2017 firmware.

@@ -51,3 +51,6 @@ user_groups:
  - SHA2017
 ---
 
+Sebastian has been the team lead and twitter god for all Dutch events we worked for.
+
+He provides us with excelent marketing, finds sponsors and has the leadership skills required to turn a bunch of volunteers into a functional development team.

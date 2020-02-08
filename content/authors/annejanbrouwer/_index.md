@@ -47,3 +47,6 @@ user_groups:
  - SHA2017
 ---
 
+Hatcher of the hatchery. Manager of OTAs. Without this guy the hatchery wouldn't have existed.
+
+A very experienced PHP and C developer!
