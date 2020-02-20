@@ -10,13 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: Hacker
+role: Hacker and Optimizer
 
 # Organizations/Affiliations
 organizations: 
-
+- name: deFEEST
+  url: "https://defeest.nl"
+- name: BawlSec
+  url: "https://bawlsec.com/"
+  
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Started programming at age 6, never stopped since. Started tinkering with electronics at age 8, same. 
 
 interests:
 - to-do
@@ -30,14 +34,23 @@ projects:
     role: Software
     icon: bolt
   - event: SHA2017
-    role: Electronics
+    role: Electronics and Software
     icon: bolt
 
 # Social/Academic Networking
 social:
-
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:annejan@badge.team'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/annejanbrouwer
+- icon: github
+  icon_pack: fab
+  link: https://github.com/annejan
+  
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "brouwer@annejan.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
