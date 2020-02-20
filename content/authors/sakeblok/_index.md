@@ -13,7 +13,9 @@ superuser: false
 role: Hacker
 
 # Organizations/Affiliations
-organizations: SYN-bit
+organizations:
+- name: SYN-bit
+  url: "https://www.SYN-bit.nl"
 
 # Short bio (displayed in user profile at end of posts)
 bio: 
@@ -28,7 +30,13 @@ projects:
     icon: bolt
 
 # Social/Academic Networking
-social: https://twitter.com/SYNbit
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:cwsake.blok@SYN-bit.nl'
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/SYNbit
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
