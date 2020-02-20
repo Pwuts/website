@@ -33,7 +33,7 @@ projects:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cwsake.blok@SYN-bit.nl'
+  link: 'mailto:sake.blok@SYN-bit.nl'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/SYNbit
