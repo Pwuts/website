@@ -40,6 +40,7 @@ We make **badges**. Badges of our design were handed out at the following events
 - [**CampZone 2019** (A large outdoor LAN event)](https://docs.badge.team/badges/campzone-2019/)
 - [**ETH0 2019** (A small Dutch hacker gathering](https://docs.badge.team/badges/eth0-2019/)
 - [**Disobey 2020** (The Nordic Security Event)](https://docs.badge.team/badges/disobey-2020/)
+- [**HackerHotel 2020** (Dutch hacker congress)](https://docs.badge.team/badges/hackerhotel-2020/)
 
 Future **projects** include:
 - CampZone 2020
