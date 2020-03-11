@@ -7,7 +7,7 @@ weight = 30
 title = "The team"
 
 [design.background]
-  color = "#FFDDDD"
+  color = "#DDFFDD"
   text_color_light = false
 
 +++
